@@ -1,8 +1,8 @@
 {
-	"name": "rholappa-portfolio",
+	"name": "rholappa.github.io",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://rholappa.github.io/rholappa.github.io",
+	"homepage": "https://rholappa.github.io/rholappa.github.io/",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
