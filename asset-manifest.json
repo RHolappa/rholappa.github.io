@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ab6f918.chunk.css",
-    "main.js": "/static/js/main.99663521.chunk.js",
-    "main.js.map": "/static/js/main.99663521.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.933c6c27.js",
-    "runtime-main.js.map": "/static/js/runtime-main.933c6c27.js.map",
-    "static/js/2.648dbb85.chunk.js": "/static/js/2.648dbb85.chunk.js",
-    "static/js/2.648dbb85.chunk.js.map": "/static/js/2.648dbb85.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5e5d1754568951d9959906c887346d5b.js": "/precache-manifest.5e5d1754568951d9959906c887346d5b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8ab6f918.chunk.css.map": "/static/css/main.8ab6f918.chunk.css.map",
-    "static/js/2.648dbb85.chunk.js.LICENSE.txt": "/static/js/2.648dbb85.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/rholappa.github.io/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/rholappa.github.io/static/js/main.5e1b77ce.chunk.js",
+    "main.js.map": "/rholappa.github.io/static/js/main.5e1b77ce.chunk.js.map",
+    "runtime-main.js": "/rholappa.github.io/static/js/runtime-main.9ee02137.js",
+    "runtime-main.js.map": "/rholappa.github.io/static/js/runtime-main.9ee02137.js.map",
+    "static/js/2.648dbb85.chunk.js": "/rholappa.github.io/static/js/2.648dbb85.chunk.js",
+    "static/js/2.648dbb85.chunk.js.map": "/rholappa.github.io/static/js/2.648dbb85.chunk.js.map",
+    "index.html": "/rholappa.github.io/index.html",
+    "precache-manifest.1f2e4cb6eac387c5b3ab6dcfa6bb8a9b.js": "/rholappa.github.io/precache-manifest.1f2e4cb6eac387c5b3ab6dcfa6bb8a9b.js",
+    "service-worker.js": "/rholappa.github.io/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/rholappa.github.io/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.648dbb85.chunk.js.LICENSE.txt": "/rholappa.github.io/static/js/2.648dbb85.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rholappa.github.io/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.933c6c27.js",
+    "static/js/runtime-main.9ee02137.js",
     "static/js/2.648dbb85.chunk.js",
     "static/css/main.8ab6f918.chunk.css",
-    "static/js/main.99663521.chunk.js"
+    "static/js/main.5e1b77ce.chunk.js"
   ]
 }
