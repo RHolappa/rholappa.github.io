@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rholappa.github.io/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/rholappa.github.io/static/js/main.5e1b77ce.chunk.js",
+    "main.js.map": "/rholappa.github.io/static/js/main.5e1b77ce.chunk.js.map",
+    "runtime-main.js": "/rholappa.github.io/static/js/runtime-main.9ee02137.js",
+    "runtime-main.js.map": "/rholappa.github.io/static/js/runtime-main.9ee02137.js.map",
+    "static/js/2.648dbb85.chunk.js": "/rholappa.github.io/static/js/2.648dbb85.chunk.js",
+    "static/js/2.648dbb85.chunk.js.map": "/rholappa.github.io/static/js/2.648dbb85.chunk.js.map",
+    "index.html": "/rholappa.github.io/index.html",
+    "precache-manifest.1f2e4cb6eac387c5b3ab6dcfa6bb8a9b.js": "/rholappa.github.io/precache-manifest.1f2e4cb6eac387c5b3ab6dcfa6bb8a9b.js",
+    "service-worker.js": "/rholappa.github.io/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/rholappa.github.io/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.648dbb85.chunk.js.LICENSE.txt": "/rholappa.github.io/static/js/2.648dbb85.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rholappa.github.io/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ee02137.js",
+    "static/js/2.648dbb85.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.5e1b77ce.chunk.js"
+  ]
+}
