@@ -128,7 +128,9 @@ class App extends React.Component<{}, AppState> {
       <div className="app container-fluid">
         <header className="row app-header">
           <div className="col">
-            <h1 className="app-title">Risto's Portfolio</h1>
+            <h1 className="app-title">Risto's Web Portfolio</h1>
+            <h4 >Includes just what web full-stack coding covers</h4>
+
           </div>
         </header>
         <div className="app-container">
