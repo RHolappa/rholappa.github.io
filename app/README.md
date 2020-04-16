@@ -1,3 +1,0 @@
-
-## Testing changes
-### `npm start`
