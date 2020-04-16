@@ -22,7 +22,7 @@ export const contents: ProjectModel[] = [
     endYear: 2020,
     type: 'Work life',
     description: 'Company Secrets so nothing to show',
-    tags: ['React', 'Node.js', 'NestJs', 'AWS', 'Mongo/Mongoose'],
+    tags: ['React', 'Node.js', 'NestJs', 'AWS', 'Mongo'],
     roles: ['Backend'],
     links: [{ name: 'not found', url: 'www.url.com' }],
     images: [],
