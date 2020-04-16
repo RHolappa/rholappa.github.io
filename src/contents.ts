@@ -53,7 +53,7 @@ export const contents: ProjectModel[] = [
   {
     name: 'AngularJS multiple apps used as cloud services',
     startYear: 2018,
-    endYear: 20219,
+    endYear: 2019,
     type: 'Work life',
     description: 'Deployed to AWS, used in car infotainment for user management and cloud services',
     tags: ['AngularJS', 'Node.js', 'AWS'],
