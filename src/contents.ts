@@ -43,7 +43,7 @@ export const contents: ProjectModel[] = [
     name: 'AngularJS app',
     startYear: 2018,
     endYear: 2020,
-    type: 'Free time',
+    type: 'Work life',
     description: 'Deployed to AWS',
     tags: ['AngularJS', 'Node.js', 'AWS'],
     roles: ['Frontend', 'Backend'],
