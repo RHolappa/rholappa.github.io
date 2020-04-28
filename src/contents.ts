@@ -104,4 +104,14 @@ export const contents: ProjectModel[] = [
     links: [],
     images: [],
   },
+  {
+    name: 'React+redux storefront and e-commercial platform',
+    startYear: 2020,
+    type: 'Free time',
+    description: 'Basic and template for e-commercial platform',
+    tags: ['React', 'Redux', 'Typescript'],
+    roles: ['Frontend', 'Backend'],
+    links: [{ name: 'not found', url: 'www.url.com' }],
+    images: [],
+  },
 ];
