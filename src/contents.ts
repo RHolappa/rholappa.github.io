@@ -17,6 +17,16 @@ export interface ProjectModel {
 
 export const contents: ProjectModel[] = [
   {
+    name: 'React application used as messaging suite & admin tools ',
+    startYear: 2020,
+    type: 'Work life',
+    description: 'Massive overhaul to old UI and production ready versatile production',
+    tags: ['React', 'Node.js', 'Python', 'RestAPI'],
+    roles: ['Frontend', 'Backend'],
+    links: [{ name: 'Quriiri', url: 'https://quriiri.fi/' }],
+    images: [],
+  },
+  {
     name: 'NestJs backend POC project',
     startYear: 2019,
     endYear: 2020,
