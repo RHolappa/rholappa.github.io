@@ -2,6 +2,7 @@ const path = require('path')
 import guides from "./contents/guides/guides.js"
 
 export default {
+  target: 'static',
   mode: 'universal',
   head: {
     title: process.env.npm_package_name || '',
