@@ -2,7 +2,7 @@
 title: "Work"
 link: "guides/info"
 cover: ""
-description: ""
+description: "Click here to know more"
 date: "June 01, 2020"
 products:
 
