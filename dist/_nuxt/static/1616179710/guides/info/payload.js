@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/guides/info", (function(a){return {data:[{attributes:{title:"Info",link:"guides\u002Finfo",cover:".\u002Fkilling-zombie-with-axes.svg",description:a,date:"June 26, 2019",products:null},html:a,currentUrl:"\u002Fguides\u002Finfo"}],fetch:{},mutations:void 0}}("")));
