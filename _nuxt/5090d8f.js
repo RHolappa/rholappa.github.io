@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{171:function(n,o){n.exports={attributes:{title:"Work",link:"guides/info",cover:"",description:"Click here to know more",date:"June 01, 2020",products:null},html:"<p>Currenly working with web product with RestAPI react + redux  with Figma UI / UX work and python Django backend work</p>\n<hr>\n"}}}]);
