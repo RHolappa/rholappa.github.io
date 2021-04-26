@@ -1,11 +1,8 @@
 <template>
   <div class="bio">
-    <img v-if="this.$nuxt.$route.name !== 'index'"
-      src="~/static/images/chuck.svg"
-    />
     <div>
       <p>
-       
+       Senior Web developer from Oulu, Finland with various full-stack techs and UI / UX skills
       </p>
     </div>
   </div>
